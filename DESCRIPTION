@@ -1,0 +1,14 @@
+Package: r-AWS
+Type: Package
+Title: A basic wrapper to the AWS Java 
+Version: 0.01
+Date: 2010-12-21
+Author: James Long
+Maintainer: JD Long <jdlong@gmail.com>
+Depends: R (>= 2.7), rJava
+Imports:
+Description: A basic wrapper to the AWS Java 
+License: MIT License
+URL: http://code.google.com/p/r-aws/
+LazyLoad: yes
+Collate: 
